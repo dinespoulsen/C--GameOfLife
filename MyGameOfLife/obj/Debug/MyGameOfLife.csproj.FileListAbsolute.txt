@@ -1,0 +1,6 @@
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\bin\Debug\MyGameOfLife.exe.config
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\bin\Debug\MyGameOfLife.exe
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\bin\Debug\MyGameOfLife.pdb
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\obj\Debug\MyGameOfLife.csprojResolveAssemblyReference.cache
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\obj\Debug\MyGameOfLife.exe
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLife\obj\Debug\MyGameOfLife.pdb

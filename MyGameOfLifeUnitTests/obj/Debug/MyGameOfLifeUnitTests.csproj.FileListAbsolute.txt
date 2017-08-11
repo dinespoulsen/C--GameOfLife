@@ -1,0 +1,12 @@
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\MyGameOfLifeUnitTests.dll
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\MyGameOfLifeUnitTests.pdb
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\obj\Debug\MyGameOfLifeUnitTests.csprojResolveAssemblyReference.cache
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\obj\Debug\MyGameOfLifeUnitTests.dll
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\obj\Debug\MyGameOfLifeUnitTests.pdb
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\Castle.Core.dll
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\Moq.dll
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\MyGameOfLife.exe
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\MyGameOfLife.pdb
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\Moq.pdb
+c:\users\poulsedx\documents\visual studio 2015\Projects\MyGameOfLife\MyGameOfLifeUnitTests\bin\Debug\Moq.xml
